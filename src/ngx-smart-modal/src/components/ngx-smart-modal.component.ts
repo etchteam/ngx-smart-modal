@@ -204,7 +204,6 @@ export class NgxSmartModalComponent implements OnInit, OnDestroy, AfterViewInit 
     return true;
   }
 
-
   /**
    * Listens for mouse up event to stop moving dragged modal
    */
